@@ -75,8 +75,6 @@ Bunny-Star-Garden/
 
 This project is part of my journey into Java programming and game development. I'm learning by building fun projects and improving them along the way!
 
-## 💌 Feedback
+## 📋 Feedback
 
 Thanks for checking out Bunny Star Garden! If you enjoy the project, feel free to star ⭐ the repository.
-
-Made with 💗 and Java ☕🐰
